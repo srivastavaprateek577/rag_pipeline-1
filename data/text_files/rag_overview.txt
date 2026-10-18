@@ -1,0 +1,8 @@
+Retrieval-Augmented Generation (RAG) Overview
+
+RAG is an architectural approach that improves the accuracy and reliability of generative AI models by fetching facts from an external knowledge base before generating a response.
+
+Benefits:
+- Reduces hallucinations
+- Provides up-to-date context
+- Allows grounding in private data

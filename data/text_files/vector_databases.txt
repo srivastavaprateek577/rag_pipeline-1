@@ -1,0 +1,8 @@
+Understanding Vector Databases
+
+Vector databases store data as high-dimensional vectors, making it efficient to perform similarity searches based on semantic meaning rather than exact keyword matches.
+
+Common Use Cases:
+- Semantic search
+- Recommendation engines
+- LLM long-term memory
